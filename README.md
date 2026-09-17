@@ -169,8 +169,6 @@ Owning an Arcana card does not mean it can always be active.
 
 Grasp creates a capacity constraint across the loadout.
 
----
-
 ### Why the distinction matters
 
 These constraints solve different problems.
