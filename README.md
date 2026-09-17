@@ -169,13 +169,17 @@ Owning an Arcana card does not mean it can always be active.
 
 Grasp creates a capacity constraint across the loadout.
 
+---
+
+### Why the distinction matters
+
 These constraints solve different problems.
 
-Access controls the expansion of choice.
+**Access** controls the expansion of choice.
 
-Acquisition gives resources value and creates prioritization.
+**Acquisition** gives resources value and creates prioritization.
 
-Capacity preserves tradeoffs after the player has already earned the options.
+**Capacity** preserves tradeoffs after the player has already earned the options.
 
 ---
 
