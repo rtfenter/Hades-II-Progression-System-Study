@@ -376,3 +376,9 @@ This is a focused product teardown, not a complete analysis of the Hades II econ
 I deliberately centered Arcana and Grasp rather than attempting to document every resource, weapon, Boon, Incantation, relationship system or progression mechanic in the game.
 
 The goal was to understand one interconnected system deeply enough to reason about its constraints, economy and downstream player behavior.
+
+---
+
+## Research
+
+- [Product reasoning log](research/reasoning-log.md) — Observations, evolving hypotheses, rejected assumptions, and the reasoning behind the analysis.
