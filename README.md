@@ -81,9 +81,9 @@ Hades II gradually gives the player tools to influence future runs without compl
 
 Keepsakes are one example.
 
-Once I know that I like a particular god's Boons with a particular playstyle, I can use what I've unlocked to influence the probability of encountering that god.
+Once I know that I like a particular god's Boons with a particular playstyle, an Olympian Keepsake lets me deliberately steer a future run toward that god when a Boon opportunity appears.
 
-I still don't control the entire outcome.
+I still don't control the rest of the build.
 
 That distinction became important:
 
@@ -107,7 +107,7 @@ Instead, Hades II uses differentiated resources that feed different progression 
 
 Within Arcana alone, resources perform different jobs:
 
-**Ashes** expand available Arcana choices.
+**Ashes** are primarily used to unlock revealed Arcana cards.
 
 **Psyche** expands Grasp capacity.
 
